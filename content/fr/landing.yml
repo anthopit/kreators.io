@@ -9,16 +9,34 @@ hero:
       text: Être rappelé
       link: /contact
 
+logocloud:
+  logos:
+    - "https://tailwindui.com/img/logos/158x48/transistor-logo-gray-900.svg"
+    - "https://tailwindui.com/img/logos/158x48/reform-logo-gray-900.svg"
+    - "https://tailwindui.com/img/logos/158x48/tuple-logo-gray-900.svg"
+    - "https://tailwindui.com/img/logos/158x48/savvycal-logo-gray-900.svg"
+    - "https://tailwindui.com/img/logos/158x48/statamic-logo-gray-900.svg"
+  description: Transistor saves up to $40,000 per year, per employee by working with us...
+  descriptionlink: Read our case study
+  link: /pricing
+
 features:
-  tagline: "Les fonctionnalités de kreators.io"
-  title: "Des outils pour vous aider à créer des vidéos professionnelles"
+  tagline: Notre objectif
+  title: C’est comme embaucher un vidéaste à temps plein pour son entreprise
   items:
-    - title: "Kit de produits audiovisuels"
-      description: "Un kit complet pour vous aider à réaliser des vidéos de qualité professionnelle."
-      icon: "/images/landing/kit.jpg"
-    - title: "Application mobile"
-      description: "Une application mobile pour vous aider à réaliser des vidéos de qualité professionnelle."
-      icon: "/images/landing/app.jpg"
-    - title: "Formation en ligne"
-      description: "Des formations en ligne pour vous aider à réaliser des vidéos de qualité professionnelle."
-      icon: "/images/landing/formation.jpg"
+    - name: Vous obtenez du matériel pour vos vidéos.
+      description: Matériel sélectionné et testé par des vidéastes & des créateurs de contenu. 3 possibilités, pour 3 besoins différents.   
+      icon: i-heroicons-light-bulb
+    - name: "Notre plateforme vous guide. "
+      description: Vous êtes mis en relation avec un vidéaste, et vous accédez à des dizaines de ressources actualisées en permanence. 
+      icon: i-heroicons-light-bulb
+    - name: "Upgrade / Downgrade"
+      description: "Nous nous occupons d’actualiser votre matériel, pour toujours bénéficier du meilleur pour vos créations de contenus. "
+      icon: i-heroicons-light-bulb
+  cta:
+    left:
+      text: Réserver mon kit
+      link: /kits
+    right:
+      text: Voir la démo
+      link: /pricing

@@ -4,3 +4,7 @@ export default defineAppConfig({
         gray: 'kreatorDark',
     }
   })
+
+  // TODO: Config font family
+  // TODO: Config color
+  // TODO: Config google analytics
